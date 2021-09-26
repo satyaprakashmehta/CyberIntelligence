@@ -1,0 +1,233 @@
+Malware Sites	: Websites that are known to contain, serve, or support malware in its delivery, propagation, or in carrying out its malicious intent.
+
+Spyware and Adware	Sites : that are known to contain, serve, or support Spyware and Adware activities.
+
+Phishing	: Phishing and other fraudulent sites that copy or mimic legitimate sites for the purposes of surreptitiously acquiring sensitive information, such as user names, passwords, credit card numbers, etc..., for use in malicious activities.
+
+Botnets	: Known to participate in a Bot network. These include Command and Control (CNC, C2) Servers and sites that deliver or receive data as part of the malicious transaction (bots, zombies).
+
+Spam	: Known to serve, deliver or aide in the propagation of Spam.
+
+Exploits	: Sites that are known to host or aide in exploits, drive-by-downloads and other activities that identifies and compromises vulnerable systems.
+
+High Risk Sites and Locations	:Domains and hostnames that match against the OpenDNS predictive security algorithms from security graph.
+
+Bogon	:Bogons are IP Addresses that are known to belong to reserved IP address spaces that is supposedly unallocated or undelagated. Sites in this category are bogons that are known to be sending traffic.
+
+Ebanking Fraud	:Known to engage in fraudulent activities that relate to electronic banking.
+
+Indicators of Compromise (IOC)	:Hosts that have been observed to engage in Indicators of Compromise.
+
+Domain Generated Algorithm:	Domains that are extracted from malware that employ algorithms that generate domains for potential use in future malicious activities such as hosting malware or as an exfiltration destination.
+
+Open HTTP Proxy	:Hosts that are known to run Open Web Proxies and offer anonymous web browsing services.
+
+Open Mail Relay: Commonly used by Spam and Phishing attackers, sites in this category are hosts that are known to offer anonymous email relaying services.
+
+TOR exit Nodes	: Hosts known to offer exit node services for the Tor Anonymizer network.
+
+DNS Tunneling :	Sites that provide DNS Tunneling as a service. These services can be for PC or mobile and create a VPN connection specifically over DNS to send traffic that may bypass corporate policies and inspection.
+
+Dynamic DNS	: Sites that are hosting dynamic DNS services. Attackers can use this technology as an evasion technique against IP blacklisting.
+
+Newly Seen Domains :	Domains that have recently been registered, or not yet seen via telemetry. The behavior of these URLs has not been observed enough to establish the appropriate reputation. Spammers and malicious actors may rely on newly registered, or previously unused domains to disguise their activities, and avoid interdiction due to low reputation. Some legitimate URLs may briefly appear in this threat category as they become visible.
+
+Cryptojacking	: Websites with embedded scripts to mine cryptocurrency which use the visitor's web browser. The script may belong to the owner of the web site, or injected by a malicious third-party, and is used as a method of generating revenue.
+
+Linkshare	: Websites that share copyrighted files without permission. The web site may be compromised, or otherwise involved in illegal file sharing.
+
+Malicious Sites	: Sites exhibiting malicious behavior that do not necessarily fit into another, more granular, threat category.
+
+Command and Control (C2) Callbacks: Compromised devices get instructions and malware downloads by communicating with attackers’ infrastructure.
+
+APT: An APT (Advanced Persistent Threat) is a set of stealthy and continuous computer hacking processes, often orchestrated by cyber criminals targeting a specific entity. An APT usually targets organizations and/or nations for business or political motives.
+
+Backdoor: A Backdoor is a type of Trojan that enables threat actors to gain remote access and control over a system. The Backdoor is often the final stage in gaining full control over a system.
+
+
+Browser Hijacker: A Browser Hijacker is any malicious code that modifies a web browser’s settings without a user’s permission, to inject unwanted advertising into the user’s browser or redirect to fraudulent or malicious sites. It may replace the existing home page, error page, or search page with its own. It can also redirect web requests to unwanted destinations.
+
+
+Bulletproof Hosting: Bulletproof hosting is a service provided by some domain hosting or web hosting firms that allows their customer considerable leniency in the kinds of material they may upload and distribute. This type of hosting is often used for spamming, phishing, and other illegal cyber activities.
+
+
+Drive-by Download: Any download that happens without a person’s consent or knowledge.
+
+
+Dropper: A dropper is a program or malware component that has been designed to “install” some sort of malware (ransomware, backdoor, etc.) to a target system. The dropper may download the malware to the target machine once it is received from the command and control server or from other remote locations.
+
+
+
+Fast Flux Botnet: Fast flux is a DNS technique used by botnets to hide phishing and malware delivery sites behind an ever-changing network of compromised hosts acting as proxies. It can also refer to the combination of peer-to-peer networking, distributed command and control, web-based load balancing and proxy redirection used to make malware networks more resistant to discovery and counter-measures.
+
+
+Information Stealer: An information stealer is a trojan that can harvest keystrokes, screenshots, network activity, and other information from systems where it is installed. It may also covertly monitor user behavior and harvest personally identifiable information (PII) including names and passwords, chat programs, websites visited, and financial activity. It may also be capable of covertly collecting screenshots, video recordings, or have the ability to activate any connected camera or microphone. Collected information may be stored locally and later retrieved, or may be transmitted to a command and control server.
+
+
+
+Loader: A loader is a type of malware or malicious code used in the loading of a second-stage malware payload onto a victim’s system. The loader is able to hide a malware payload inside the actual loader code instead of contacting a remote location to download a second-stage payload.
+
+
+
+Malvertising: Malvertising involves injecting malicious or malware-laden advertisements into legitimate online advertising networks and webpages. Malvertising is often used in exploit kit redirection campaigns.
+
+
+Mobile Trojan: A mobile trojan is a trojan designed to target and infect mobile phones running Android, iOS, Windows or other mobile operating systems.
+
+
+Point-of-sale Malware: Point-of-sale malware (POS malware) is used by cybercriminals to target point of sale terminals with the intent to obtain credit card and debit card information by reading the device memory from the retail checkout point of sale system.
+
+
+Remote Access Trojan (RAT): A Remote Access Trojan (RAT) is malware that allows covert surveillance or unauthorized access to a compromised system. RATs make use of specially configured communication protocols. The actions performed vary but follow typical trojan techniques of monitoring user behavior, exfiltrating data, lateral movement, and more.
+
+
+
+Rootkit: A rootkit is a collection of computer software, typically malicious, designed to enable access to a computer or areas of its software that would not otherwise be allowed (for example, to an unauthorized user) and often masks its existence or the existence of other software.
+
+
+
+Scareware: Scareware is a form of malicious software or website that uses social engineering to give the perception of a threat in order to manipulate users into buying or installing unwanted software. Scareware misleads users by using fake alerts to trick them into believing there is malware on their computer, and manipulates them into paying money for a fake malware removal tool or allowing an entity remote access to their system to clean the malware. Instead of remediation, the software or remote entity delivers malware to the computer.
+
+
+
+Sinkhole: A DNS sinkhole, also known as a sinkhole server is a DNS server that gives out false information, to prevent the use of the domain names it represents. Traffic is redirected away from its intended target. DNS sinkholes are often used to disrupt botnet command and control servers.
+
+
+
+Spam: Spam is an unwanted, unsolicited message that can be received through email or SMS texts. Spam is sent to many users in bulk. It is often sent through the means of a botnet. Spam can contain advertising, scams, or soliciting. In the case of malspam or malicious spam, it contains malicious attachments or links that lead to malware.
+
+
+Worm: A computer worm is malware that replicates itself in order to spread to other computers. Worms typically spread through the computer network or removable storage devices that are shared between systems, relying on security failures on the target computer.
+
+
+Dridex: Dridex/Cridex is a trojan that was first observed in 2012. Dridex is widely spread and is responsible for stealing banking credentials of approximately 300 banks and other financial institutions in over 40 countries. It is primarily spread through malspam with malicious document attachments.
+Type: Trojan
+Target geolocations: US, Europe
+
+Emotet: Emotet was a banking trojan that was first detected in 2014. The trojan’s infrastructure was disrupted in January 2021 by authorities in the Netherlands, Germany, the United States, the United Kingdom, France, Lithuania, Canada and Ukraine, with international activity coordinated by Europol and Eurojust. Emotet evolved into a massive botnet that delivered large amounts of malspam with malicious document attachments that lead to the Emotet trojan. The trojan also functioned as a dropper for 2nd stage payloads including, but not limited to, TrickBot, Qakbot and Ryuk.
+Type: Trojan
+Target geolocations: USA, Mexico, South Africa, Chile, India, Canada, Colombia, Germany, UK, Argentina
+
+Glupteba: Glupteba is a trojan usually dropped by exploit kits. It can drop additional malware onto a system and add the affected system to a botnet. It has been seen masquerading as an updater for legitimate software.
+Type: Trojan
+Target geolocations: Europe, Canada, US
+
+Hancitor: Hancitor (also known as Tordal or Chanitor) is a trojan spread through malspam with malicious document attachments or malicious download links. It was first observed in 2014. The main goal of Hancitor is to drop other malware onto a system. It has been associated with dropping additional malware payloads such as Vawtrak and Pony. New versions of Hancitor use a fileless attack technique. Recent campaigns deliver FlickerStealer to the infected users.
+Type: Trojan
+Target geolocations: Worldwide
+
+IcedID: Also known as BokBot, IcedID is a modular banking trojan first discovered in 2017. IcedID has been seen most often distributed via a 2nd stage payload dropped by Emotet. The trojan uses redirection attacks by installing a local proxy to redirect users to clone banking sites and steal financial information, including login credentials for online banking sessions. Since 2017 trojan evolved and today it is often used as a loader for other malware including ransomware.
+Type: Trojan
+Target geolocations: US, Canada, UK
+
+MageCart MirrorThief: MageCart MirrorThief is an information skimmer script that is usually located on the checkout pages of E-Commerce sites. This attack injects the skimmer scripts which target the checkout area and promptly steal credit card information during the victims checkout process.
+Type: Information Stealer
+Target geolocations: Europe, Canada, US
+
+RigEK: RigEK is an Exploit Kit which uses drive-by techniques to check if the user’s computer has a driver file associated with a particular antivirus software product. The kit then looks for particular installed plugins and will attempt to exploit them accordingly. If the kit managed to successfully exploit any of these vulnerabilities, then malware is downloaded onto the victim’s computer. It has been found that Rig drops a range of different malware samples, including the banking trojans and ransomware.
+Type: Exploit Kit
+Target geolocations: Worldwide
+
+Sodinokibi: Sodinokibi, also known REvil, is a ransomware identified in April 2019 which encrypts the data in the user’s directory of a Windows system and asks for ransom. It infects the machine by exploiting the vulnerabilities in web exposed systems as well as uses affiliate loader campaigns which provide initial access. It also deletes the shadow copies from the machine.
+Type: Ransomware
+Target geolocations: Asia, Europe, US
+
+SUNBURST: A sophisticated supply-chain attack backdoor first seen in the SolarWind incident, where adversaries compromised updates to SolarWind’s Orion IT monitoring and management software. This backdoor can communicate to third party servers using HTTP. The backdoor is loaded by the executable before the legitimate code, so as not to alert the victim that anything is amiss. After a period of dormancy, which can last up to two weeks, the backdoor is able to execute commands to transfer and execute files, profile the system, reboot the machine, and disable system services.
+Type: Backdoor
+Target geolocations: Predominantly the U.S., but SUNBURST has been observed in Europe, Asia, and the Middle East as well.
+
+Ursnif/Gozi: Ursnif is a banking trojan and a variant of the Gozi malware. It has been active for over a decade, continuously evolving over time. Ursnif is spread through malspam with malicious document attachments, malvertising and exploit kits.
+Type: Trojan
+Target geolocations: Japan, US, Asia, Italy
+
+WebCryptoMiner: WebCryptoMiners are typically created in JavaScript and run within a user’s browser to utilize CPU resources to run hashing algorithms on hash blocks, with the goal of mining cryptocurrency for the individual or group that installed the javascript code.
+Type: Cryptojacking
+Target geolocations: Any
+
+
+5G-to-Wi-Fi Security Vulnerabilities
+As cyberattacks continue to become more and more sophisticated, attacks are likely to take place in newer digital spheres. In particular, we expect to see cybercriminals exploring ways to attack the 5G-to-Wi-Fi handover.
+As 5G becomes more and more commonly used, wireless providers are handing off more calls and data to Wi-Fi networks in an attempt to save bandwidth. And because of this rapid growth in 5G, the technology used to protect this handover is not yet developed enough to fully protect the transition. This gives opportunities to cybercriminals to compromise these mobile devices.
+Areas that are popular for professionals to perform mobile work—such as airports, cafes, and hotels—are hotspots for the 5G-to-Wi-Fi handover. This puts the voice and data information on these mobile devices at greater risk. And while these devices have built-in technologies that allow this transition to occur quietly and without notice, researchers have already found vulnerabilities in such technologies.
+
+
+Internet of Things (IoT) Devices
+Many everyday devices, such as fitness trackers, smart security systems, and even some in-car apps, are IoT devices. Simply put, these devices are used to communicate and exchange information over a network without requiring human involvement.
+A digital concept for Internet of Things devices, one of our top computer security threats in 2020, with icons for laptop, mobile, home, email, home appliance, Bluetooth, automobile, and more.
+For instance, your fitness tracker collects information about your health and exercise, such as your heart rate, steps taken, and calories burned. That data is sent to the cloud and processed. Under certain circumstances, that data might result in an action initiated by the technology. You might periodically receive graphs that show your fitness trends and progress, or you might be sent an alert if your heart rate is too high.
+It’s not news that our world is increasingly reliant on these devices. In fact, predictions indicate that the market will grow another billion dollars by 2026. With such a major increase in new technologies, cybercriminals are likely to target IoT devices that experience security issues, as technologies in their infancy often do.
+While many of the most common IoT devices are personal or smart home devices, more and more businesses are taking advantage of IoT. Smart locks, connected security cameras, smart thermostats, smart lights, voice assistants, and more are appearing in the workplace. As more company information passes through these devices, more hackers may begin targeting them.
+The IoMT, or Internet of Medical Things, is a collection of medical devices and applications that can connect to healthcare IT systems using network technologies. Due to the valuable personal information available through IoMT, as well as IoMT’s unique security issues, it is especially likely that cybercriminals will target these devices.
+
+
+Deepfakes
+Deepfakes have been increasingly used against a variety of individuals and industries over the last several years. A deepfake is produced by artificial intelligence that takes an existing video, photo, or voice recording and manipulates someone’s image or voice to falsify their actions or speech. In fact, deepfakes have been popularly utilized in politics to make candidates appear to say or do something that damages their reputation.
+As it relates to businesses, experts predict that deepfakes will be used by cybercriminals to impersonate members of a company to gain access to important information. These “synthetic identities” can be used to commit fraud, as hackers create fake versions of real companies to lure in unsuspecting consumers. Deepfakes can also contribute to more advanced forms of phishing, allowing hackers to more convincingly impersonate CEOs and give harmful instructions to employees.
+
+
+
+Highly Developed Ransomware Attacks
+Ransomware has plagued businesses for several years now. Successful attacks have caused companies to lose millions of dollars in ransom payments, encouraging hackers to keep using and refining these attacks.
+According to a McAfee prediction report, the process by which attackers are able to purchase ransomware kits on the darkweb is becoming easier. Not to mention, the ransomware itself is becoming increasingly more sophisticated.
+The report also predicts that ransomwares will consolidate into fewer—but more powerful—ransomwares that will work in conjunction with one another. By working together in this manner, attackers become even more capable and pose greater threats to businesses. If attacked by these ransomware powerhouses, companies may experience even greater costs from downtime and recovery.
+
+
+Insider Threats
+Insider threats, or threats posed by employees, affect 34% of businesses around the world. These employees may be acting intentionally to hurt the company or accidentally, out of ignorance or negligence. As more employees move to remote work, which opens them up to additional risks, organizations should take extra precautions to curb insider threats.
+Fortunately, there are specialized tools available to combat insider threats. These tools can detect unauthorized logins, the installation of new apps on locked down computers, users with newly granted authorization access, and new devices on restricted networks. In addition, businesses should provide all employees with routine cybersecurity training to help prevent these mistakes before they’re ever made.
+
+
+API Vulnerabilities and Breaches
+An application programming interface (API) is an intermediary between applications. It determines how apps can interact with one another. APIs work behind the scenes in many everyday applications, from streaming services to social media, weather apps, instant messaging, and more.
+The security used for APIs is typically less advanced than web app security. This is true for most organizations. As a result, APIs are often not made accessible to the public or outside developers.
+Because so many companies are becoming more reliant on APIs, attacks on these systems—and the need for API security—should increase this year.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cyber Security Soluction:
+----------------------------------------------------------------------------------------------------------------------------------
+Identify insider threats : Uncover suspicious user activity that may indicate compromised credentials or an insider threat.
+
+Detect advanced threats : Piece together several seemingly low-risk events to find the one extremely high-risk cyber attack underway.
+
+Secure the cloud : Expose hidden risks in hybrid multicloud environments and containerized workloads.
+
+Uncover data exfiltration : Correlate exfiltration events, such as insertion of USBs, use of personal email services, unauthorized cloud storage or excessive printing.
+
+Manage compliance : Manage regulatory risk for a variety of compliance mandates, such as GDPR, PCI, SOX, HIPAA and more.
+
+Monitor OT and IOT security : Centralize monitoring for OT and IoT solutions to identify abnormal activity and potential threats.
+
+SIEM software : Gain actionable insights into siloed security data, quickly identify the top threats, and reduce the total alert volume.
+
+Threat management services : Manage the full threat lifecycle with an integrated program of cognitive tools, automation, orchestration and human guidance.
+
+Security operations center consulting : Assess your threat strategies, unite security operations and response, improve your security posture and migrate to the cloud confidently.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
